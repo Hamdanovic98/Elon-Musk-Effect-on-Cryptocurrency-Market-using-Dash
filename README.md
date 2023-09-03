@@ -11,3 +11,5 @@ Welcome to this visualization project that explores the influence of Elon Musk's
 Underneath, you'll find a price card that allows you to select a specific time frame for analysis. This feature enables you to observe the price changes within the chosen period, offering insights into how Musk's tweets corresponded with market fluctuations.'
 
 Feel free to explore the interactive visualizations and dive into the intriguing relationship between Musk's tweets and the Cryptocurrency market. Your feedback and engagement are greatly appreciated! 🚀📊
+
+![Screenshot 4](https://i.imgur.com/QOdgOlV.png)
