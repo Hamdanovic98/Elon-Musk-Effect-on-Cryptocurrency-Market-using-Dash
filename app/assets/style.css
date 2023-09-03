@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* Button styles */
+.btn-primary,
+.btn-secondary,
+.btn-success {
+    margin-right: 10px;
+}
+
+/* Center the title */
+#currency-title {
+    text-align: center;
+}
